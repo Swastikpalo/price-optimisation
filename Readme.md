@@ -40,7 +40,9 @@ Open the notebook `AIPricingEngine.ipynb` to review the full workflow, including
 The original dataset is not included in this repository due to size and/or privacy considerations. However, the notebook is fully documented and can be run using any similarly structured pricing dataset.
 
 ## View the Notebook
-- [Open in Google Colab](https://colab.research.google.com/github/Swastikpalo/PRICE-OPTIMISATION/blob/main/AIPricingEngine.ipynb)
-- [View on GitHub](AIPricingEngine.ipynb)
+-  [Open in Google Colab](https://colab.research.google.com/github/Swastikpalo/price-optimisation/blob/main/AIPricingEngine.ipynb)
+-  [View on GitHub](AIPricingEngine.ipynb)
+
+
 
 
